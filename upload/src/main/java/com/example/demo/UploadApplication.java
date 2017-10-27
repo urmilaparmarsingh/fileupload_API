@@ -14,7 +14,6 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
  */
  
 @SpringBootApplication
-@EnableMongoRepositories
 public class UploadApplication {
 
 	public static void main(String[] args) {
